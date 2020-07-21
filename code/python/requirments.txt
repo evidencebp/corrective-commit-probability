@@ -1,0 +1,5 @@
+matplotlib==2.2.3 # Should be using plotly instead
+pandas==0.23.4
+PyGithub==1.43.2
+plotly==4.1.1
+# psutil=5.6.7 # For saving image with plotly, needs plotly-orca which wasn't found

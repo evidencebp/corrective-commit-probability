@@ -1,0 +1,4 @@
+coupled_by_name,files,avg_non_corrective_files,avg_non_corrective_non_test_files,avg_capped_non_corrective_files,avg_capped_non_corrective_non_test_files
+FALSE,2966678,17.12385684,14.1978124,14.1978124,14.1978124
+TRUE,1522,24.90206476,20.04850352,20.04850352,20.04850352
+,,1.454232244,,,

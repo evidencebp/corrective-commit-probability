@@ -1,0 +1,472 @@
+repository,status,leaver,tfdd_date,tfdd_commit,tfValue
+activeadmin/inherited_resources,Non-surviving,JOSE VALIM,03/06/2014 00:00,38009de075d4c7e5170a582af9c09002ff6fc4b5,1
+adamfisk/LittleProxy,Non-surviving,OX TO A CART,24/10/2014 00:00,3339f39b9a4d8aeb6ce6e5767efc08f576b6b698,1
+afaqurk/linux-dash,Surviving,DARREN,06/07/2014 00:00,d03e7340ec92260807c771f698cc946d1f3a2f4c,1
+airblade/paper_trail,Surviving,ANDY STEWART,13/04/2012 00:00,e870e0d5615972322978d7d1a2ec7c538e9c68ea,1
+alibaba/tengine,Surviving,SHUDU,25/05/2012 00:00,e7c32b063d25169395549fe17e4d17cc41b8d408,3
+alibaba/tengine,Surviving,CHAOSLAWFUL,10/08/2012 00:00,3f6bbd0c4d2e404a12a0f6bdf78b1b401fe82dd5,3
+alibaba/tengine,Surviving,JINGLONG,10/12/2013 00:00,00da48810c197ea44f9584ffb059c8003612075f,3
+andersao/l5-repository,Non-surviving,ANDERSON ANDRADE,01/03/2016 00:00,efe486eecf883272c2a7edd53fa6e1aad77627e4,1
+angular-app/angular-app,Non-surviving,PETE BACON DARWIN,12/08/2014 00:00,4575a7bf70161b7b955fe7f5250bfcf1486b0a3e,2
+angular-app/angular-app,Non-surviving,PAWEL KOZLOWSKI,21/06/2014 00:00,5f01281c03d5994db32b49462a41c2e012176c2d,2
+angular/angular-seed,Non-surviving,IGOR MINAR,23/05/2013 00:00,8111a5d6042a45a0fe2dc1b2fa5af337c2f139e3,3
+angular/angular-seed,Non-surviving,PETER BACON DARWIN,15/06/2015 00:00,a50f4c8a7a9c90942fac38aeb35ea1be183d2a76,3
+angular/angular-seed,Non-surviving,MATT BROADSTONE,20/08/2014 00:00,9d0b43b64a0f9176499a437f8f793441fbaf3231,3
+apenwarr/sshuttle,Non-surviving,AVERY PENNARUN,05/10/2014 00:00,e5251969b0801bef28a7a84e3511df9685187ccc,1
+ApiGen/ApiGen,Surviving,JAROSLAV HANSLIK,15/02/2014 00:00,d6e61bc5a088bdcb5863c92d7cd0058b25c7743c,1
+AppScale/appscale,Non-surviving,NAVRAJ CHOHAN,06/05/2015 00:00,f3124e276bd4822c1019b700259ca4571e376ff9,1
+arasatasaygin/is.js,Non-surviving,ARAS.ATASAYGIN,14/01/2016 00:00,0d99836caaa4c360fd7cd6ccf14a99002c25c632,1
+arduino/Arduino,Non-surviving,AETHANIEL,07/02/2013 00:00,68fe402f8e5357d7d96744b2f9b413873ccce578,2
+arduino/Arduino,Non-surviving,FEDERICO FISSORE,14/12/2015 00:00,de5ef66c6fdbb7f564ce5fb1fbd1481c8d95fc80,2
+assaf/vanity,Surviving,ASSAF ARKIN,01/09/2013 00:00,833a748c1fba8d128f976eac06f06be5f55bd69b,1
+AssetSync/asset_sync,Non-surviving,DAVID RICE,12/12/2014 00:00,051c3849c89abea2ec908213717bde800e83e223,1
+attr-encrypted/attr_encrypted,Surviving,SEAN HUBER,22/03/2011 00:00,29af6f9bec7af07ddb196c1fdfafe7f9cace0167,2
+attr-encrypted/attr_encrypted,Surviving,RICHARD COOK,18/10/2015 00:00,318d42e759a62a709bb5b6d67ee5f899ee990d7b,2
+Automattic/kue,Surviving,TJ HOLOWAYCHUK,14/12/2012 00:00,664cdae32451e0aeb5c232560b6d43cedeb6daf7,1
+Automattic/node-canvas,Non-surviving,TJ HOLOWAYCHUK,19/08/2013 00:00,6fe0483c9b1969bedaac82d580bf392941e2e65c,1
+avast/android-butterknife-zelezny,Surviving,CARNERO,04/03/2014 00:00,6996099e5afcdd6874fe918dbc44245cbc39c356,2
+avast/android-butterknife-zelezny,Surviving,MAKOVKASTAR,15/08/2014 00:00,c3fa2bdddd98fbf6c871519d98080ef19e83d355,2
+awesome-print/awesome_print,Non-surviving,MIKE DVORKIN,18/12/2014 00:00,0bd3425caf449e411cd5caecf60d4f80afbea851,1
+backup/backup,Surviving,BRIAN D. BURNS,08/02/2014 00:00,cce63c92f3950d2d4d3798e618f447328bbdbba2,1
+banga/powerline-shell,Surviving,SHREY BANGA,02/11/2014 00:00,6b3a9108983fde163fa565ffabcecf96af212dd6,2
+banga/powerline-shell,Surviving,MARCIO ALMADA,22/04/2014 00:00,5c8e33f196640c02761ec6621df15adb4182a260,2
+beberlei/assert,Non-surviving,BENJAMIN EBERLEI,22/03/2016 00:00,91e2690c4ecc8a4e3e2d333430069f6a0c694a7a,1
+benvanik/xenia,Non-surviving,BEN VANIK,21/03/2016 00:00,ea7bad1035d4f9c6719336d55c0a024d7e1a726f,1
+binarylogic/settingslogic,Non-surviving,BINARYLOGIC,30/12/2012 00:00,08792a6dd770e0754a73edffdc525507dfcdb81d,2
+binarylogic/settingslogic,Non-surviving,NATE WIGER,13/02/2010 00:00,eeadde31f7995f4a2fffa14364a0de5deb37d512,2
+blaze/blaze,Non-surviving,MATTHEW ROCKLIN,01/10/2015 00:00,951328b82dc3a667faef83c3464119ff784e38c8,1
+bower/bower,Non-surviving,ANDRE CRUZ,25/03/2014 00:00,7120ad50144677fcffb31002caf18c667faf486a,1
+boxen/our-boxen,Non-surviving,WILL FARRINGTON,09/12/2013 00:00,c799af58693a7223db820ec045b9c2fb9916b828,2
+boxen/our-boxen,Non-surviving,JOHN BARNETTE,15/02/2013 00:00,8dab540720d13dcc1805773ebf0eda357936d6a0,2
+brandonhilkert/sucker_punch,Non-surviving,BRANDON HILKERT,25/04/2016 00:00,31476aa0ad0351f7956ae834951c58a0e50b6b47,1
+breach/thrust,Non-surviving,STANISLAS POLU,13/12/2014 00:00,6a14cc53905126e159018b5a345c1d7cf4e2954f,1
+browsermedia/browsercms,Non-surviving,PATRICK PEAK,30/09/2014 00:00,d6545571ef199c554b5ddec3f3e5729536a54e4f,1
+brynary/webrat,Non-surviving,BRYAN HELMKAMP,15/06/2012 00:00,004cc24c3d532508ffb51133d1505ff2e55f1fdc,1
+c3js/c3,Non-surviving,MASAYUKI TANAKA,03/05/2016 00:00,223404a79246c61d150d8a209dbdc81f6955083b,1
+caolan/async,Surviving,CAOLAN MCMAHON,27/05/2014 00:00,232121251f601c9be7209f6382ee32180df676f1,1
+capistrano/capistrano,Surviving,TOM CLEMENTS,18/01/2014 00:00,1f86d32fd48d08311b92446e1db428613b180309,1
+carltongibson/django-filter,Surviving,NKRYPTIC,30/03/2013 00:00,24f8f1318b1c23bb3fe2ce31f681d28d11a1aaaf,2
+carltongibson/django-filter,Surviving,ALEX GAYNOR,02/04/2011 00:00,51b39fca089f2cb1d3d3501d2e164635fbe52864,2
+carrierwaveuploader/carrierwave,Non-surviving,JONAS NICKLAS,23/10/2011 00:00,7ca72b689df9ea745ebb6ddade35757021f7262c,1
+casperjs/casperjs,Non-surviving,NICOLAS PERRIAULT,20/01/2016 00:00,254a107ab0e0c2b2999019f9367f1b4e58045a46,1
+CellularPrivacy/Android-IMSI-Catcher-Detector,Surviving,XLAMBCHOPSX,20/09/2014 00:00,4125d9083af4262910902933853b26c9b83c5dca,3
+CellularPrivacy/Android-IMSI-Catcher-Detector,Surviving,E:V:A,01/09/2015 00:00,2e44d298f1fe2e34367f4babdf133e33b2c29a71,3
+CellularPrivacy/Android-IMSI-Catcher-Detector,Surviving,PAUL KINSELLA,02/08/2015 00:00,df519e30b679fcd13c8f7af5d7ab5538478709f4,3
+chennaione/sugar,Surviving,HUU NGUYEN,11/04/2015 00:00,5884ddddaf0302b861c7018fe1f54f1cff3c25e5,1
+chrisbanes/PhotoView,Non-surviving,MAREKSEBERA,29/04/2015 00:00,e365829697519a0a809e026bcf3a771f75fefa36,1
+chriso/validator.js,Non-surviving,MUHAMMAD FAWWAZ ORABI,21/02/2016 00:00,a33b64b3d936c857e197a7c85c026d0d75c645a2,1
+Circa75/dropplets,Non-surviving,JASON SCHULLER,13/05/2014 00:00,09ab4bdedce2de3505837afb44b9be817845616c,1
+cloudera/hue,Surviving,BCWALRUS,24/11/2014 00:00,5d13ff8c695792fb9bc090cd61c8d8987afd9f54,2
+cloudera/hue,Surviving,ABEC,05/03/2015 00:00,0d1620e3f95c65342ba8876f1404dcb193d114e8,2
+cloudius-systems/osv,Surviving,CHRISTOPH HELLWIG,16/08/2013 00:00,42912366bfd2bb4ea5845c73fad41029221b710d,4
+cloudius-systems/osv,Surviving,AVI KIVITY,26/10/2015 00:00,852cad7b71caa8f7a91bd7c948d5c3e3647b013c,4
+cloudius-systems/osv,Surviving,GUY ZANA,12/09/2013 00:00,3109fd9316f994f22c0b3c9c9e53f1453fbe1814,4
+cloudius-systems/osv,Surviving,GLAUBER COSTA,12/11/2015 00:00,d0b28fc0023c606c7a455b8e60da709882ac757b,4
+code-troopers/android-betterpickers,Non-surviving,DEREK BRAMEYER,15/04/2014 00:00,e07ec110ec1885f3a2492014898c47a85f84afb0,1
+codebrew/backbone-rails,Non-surviving,RYAN FITZGERALD,02/02/2013 00:00,a49f2ea65e1d70d206f6608bd405fb1968f6d070,1
+CodeSeven/toastr,Non-surviving,JOHN PAPA,16/08/2015 00:00,8bbd8db7a8dd4f8e6ddcbca2acf4a2e88aab86f4,1
+collectiveidea/awesome_nested_set,Surviving,BRANDON KEEPERS,27/11/2009 00:00,2972647cd57b500deea58c80ef5cb0e39f6cbc65,1
+composer/satis,Surviving,JAMESREZO,15/12/2015 00:00,f4f60963aff3d8070ad4d831037b95fd6b3b8d2a,2
+composer/satis,Surviving,JORDI BOGGIANO,11/08/2015 00:00,0dd53e18696aab506504c48932a77fcd71fffc19,2
+ctran/annotate_models,Surviving,JON FRISBY,27/08/2012 00:00,112ebfa20af4a02da822c0dac232a014a27a7682,1
+CyberAgent/android-gpuimage,Non-surviving,PATRICK BOOS,16/10/2013 00:00,d4012a80dd9834e01885f425e7809b2c789f4bcb,1
+DatabaseCleaner/database_cleaner,Non-surviving,JON ROWE,02/01/2015 00:00,181ebbce5cf982269160b66fa969ab4bc4f55f9b,4
+DatabaseCleaner/database_cleaner,Non-surviving,BEN MABEY,23/05/2014 00:00,8d7f72ffc99befd5ce67d333a99e0cf054c24f81,4
+DatabaseCleaner/database_cleaner,Non-surviving,STANISLAW,04/08/2012 00:00,0786cb049754c679015c661c2e01dd50fca051f8,4
+DatabaseCleaner/database_cleaner,Non-surviving,JAMES CONROY-FINN,11/05/2013 00:00,b70f09a3ed86e5a05d3fa419faef4801210a4fad,4
+DavyJonesLocker/client_side_validations,Non-surviving,BRIAN CARDARELLA,22/09/2013 00:00,659846af18ca1dcaf9070aea1053a82b61c39430,1
+daylerees/colour-schemes,Surviving,JAMES,24/11/2012 00:00,d289256272a0d42c18790cc8a9180db5a4048802,1
+defunkt/jquery-pjax,Non-surviving,JOSHUA PEEK,10/09/2014 00:00,efe7c5c8803643dd90f03881b3a3ae85a5fe9054,1
+devopsgroup-io/vagrant-digitalocean,Non-surviving,SHAWN DAHLEN,31/08/2014 00:00,6643ae8338d5cf08645fe45806abb82036012534,2
+devopsgroup-io/vagrant-digitalocean,Non-surviving,JOHN BENDER,02/04/2013 00:00,37db459938793c7434784e8b2d42e438553d5aee,2
+django-compressor/django-compressor,Surviving,JANNIS LEIDEL,30/12/2014 00:00,4c3ae4cdfc3bd5026da45c3233d59a4ad608aed3,2
+django-compressor/django-compressor,Surviving,LUCAS TAN,06/04/2014 00:00,2be6c52d5cf170bba6e5a7dbdb0bfededd86c1ba,2
+django-haystack/django-haystack,Surviving,DANIEL LINDSLEY,13/10/2014 00:00,2fbb9029967c1f9f95bbf57ba61e4722a7883c42,1
+django-tastypie/django-tastypie,Surviving,DANIEL LINDSLEY,22/10/2014 00:00,edfe2c44dc9d3a97e1a645ceef9e23fd95724b37,2
+django-tastypie/django-tastypie,Surviving,CODY SOYLAND,09/09/2010 00:00,683b3d374e052ef73d224b3fdbdc3c6a400df0fe,2
+docker/kitematic,Non-surviving,JEFFREY MORGAN,11/02/2016 00:00,902fb2ec6618f387bac45729d4c422756e11f8d2,1
+dompdf/dompdf,Non-surviving,PHENX,06/12/2015 00:00,075f082fba49a762576eca4aa8127899bd6760a2,2
+dompdf/dompdf,Non-surviving,BENJ CARSON,29/04/2009 00:00,2df4fb9331dc0b66ada9a26c8d099741f89af33c,2
+doorkeeper-gem/doorkeeper,Non-surviving,FELIPE ELIAS PHILIPP,28/08/2013 00:00,23bc9a0a0a93be35e40dd44d87417b16339efde5,1
+douban/dpark,Surviving,DAVIES LIU,08/08/2013 00:00,4488457ceba54a991a02e873ec3336ebeefad7e4,1
+drapergem/draper,Non-surviving,ANDREW HAINES,17/07/2013 00:00,2aaf95bd82b13cb09124e14107ecdc134f1cdf89,2
+drapergem/draper,Non-surviving,STEVE KLABNIK,21/12/2014 00:00,724e735a0310bd29412749a4fdbed376db5d580f,2
+dropwizard/dropwizard,Surviving,CODA HALE,27/03/2014 00:00,34b95f5c78282e1fec3d0ab32fd06337a1994494,1
+dropwizard/metrics,Non-surviving,CODA HALE,03/12/2013 00:00,b0f9f9e29bd30f8db668afe68f1abc595bf901f3,2
+dropwizard/metrics,Non-surviving,TOBIAS BIENIEK,08/09/2014 00:00,fc3f294bbf39c1becd400cb0338ca265a94ea1ee,2
+ecomfe/echarts,Surviving,KENER,20/03/2015 00:00,fe4388161abd4d9a29db2387ee91e74bd38e1f9e,1
+EnterpriseQualityCoding/FizzBuzzEnterpriseEdition,Non-surviving,DMITRY-ME,16/05/2015 00:00,ad4b9a5ee5728fc729038ab46f8e0642805e4f51,1
+erikhuda/thor,Non-surviving,JOSE VALIM,26/03/2013 00:00,3c5a459eb0f27410d632734994f805b1e3484acd,1
+errbit/errbit,Surviving,JARED PACE,08/03/2012 00:00,e989d07087aeebea20f643e5ef1ef7e8459e286a,3
+errbit/errbit,Surviving,NATHAN BROADBENT,04/05/2013 00:00,0321d1536a3d7abe6cdec6447e94e2bba8796cd6,3
+errbit/errbit,Surviving,CYRIL MOUGEL,30/04/2014 00:00,78c34e2fa7c690014599644679d468b767aaf893,3
+es-shims/es5-shim,Surviving,BENJAMIN HORSLEBEN,11/07/2011 00:00,ea63a085c0cf5ecff7bfcb91d38af4a52540a2f5,2
+es-shims/es5-shim,Surviving,RAYNOS,18/01/2012 00:00,28eeea69aa36e98fc32ffd3204fabc307abff921,2
+esnme/ultrajson,Non-surviving,JONAS TARNSTROM,29/10/2014 00:00,0a2933f74f76930d6d20a06d506659e87a5e45ad,1
+etsy/logster,Surviving,RAFAEL81,26/02/2013 00:00,62e8200c86ea56534a5b92f22c924ed0bdfff2ed,7
+etsy/logster,Surviving,MARC ABRAMOWITZ,08/05/2012 00:00,5e1246461841625a58afe25fc8eb271322ada32b,7
+etsy/logster,Surviving,MIKE BRITTAIN,10/04/2012 00:00,f60dd6a0cfe91d1eb60f2567b02c511150102e33,7
+etsy/logster,Surviving,MARK CROSSFIELD,25/06/2012 00:00,72bb27080589628438df494aea33aefb977033c2,7
+etsy/logster,Surviving,DANIEL SCHAUENBERG,15/01/2014 00:00,7475c53822c2e22d0994ea059bfd482044019a5b,7
+etsy/logster,Surviving,HORACIO GONZALEZ,29/06/2012 00:00,c9debe47f7b89d792fb0560501bb013ab1175257,7
+etsy/logster,Surviving,JULIEN PIVOTTO,18/09/2012 00:00,71580933ef651ba92f06dcc09d18bd1ea50d13f3,7
+euske/pdfminer,Non-surviving,YUSUKE.SHINYAMA.DUMMY,25/12/2010 00:00,866f2bbb75df159c0f142e9f9082a86f7848cf0b,1
+eventmachine/eventmachine,Non-surviving,AMAN GUPTA,08/05/2015 00:00,98b0d480091fd12a4a1f9294f75a5903d9215e06,2
+eventmachine/eventmachine,Non-surviving,BLACKHEDD,19/01/2008 00:00,b541df503bde95dfe416d9b7fabe5822081af69a,2
+expressjs/express,Surviving,TJ HOLOWAYCHUK,19/02/2014 00:00,6b05f60badd3cf8e88ec46e192703dd5f3d31071,1
+eyecatchup/SEOstats,Non-surviving,CLEMENS SAHS,27/08/2014 00:00,03cf5f9ff5b627febe4d35751532e6ab8aaa36b6,1
+facebook/facebook-android-sdk,Surviving,STEVEN SONEFF,25/06/2010 00:00,b7064910e2c09f84db46cfec162f8939496be777,1
+facebook/hhvm,Non-surviving,PTARJAN,12/06/2015 00:00,242cfe568e06f06ac57688398a9fb954ad0c890b,2
+facebook/hhvm,Non-surviving,LIRAN NUNA,14/08/2014 00:00,e7084a7f7d652420a30e4d9d6fa0d1d222ef6d42,2
+facebook/php-webdriver,Surviving,JANOS PASZTOR,01/06/2015 00:00,3cc6f36d8e5d155376e00ff7405126713e3983b2,2
+facebook/php-webdriver,Surviving,WHHONE,02/06/2014 00:00,bb9c3903c508df7cf920bed85fd8934ec71fecf5,2
+facebook/wangle,Non-surviving,JSEDGWICK,22/10/2015 00:00,ce63d162f168e90e8c913a8e712de1953cbbc033,1
+fail2ban/fail2ban,Non-surviving,CYRIL JAQUIER,03/10/2011 00:00,ec4fda8a1f04b598acddde23349ba21d0f097074,2
+fail2ban/fail2ban,Non-surviving,STEVEN HISCOCKS,09/05/2015 00:00,0c869910eae722f2be9d79d22975400fcb2ef5cd,2
+farbrausch/fr_public,Surviving,FABIAN 'RYG' GIESEN,28/11/2012 00:00,771572095760c10341bd0d874ec20cdd903b468b,1
+fatfreecrm/fat_free_crm,Non-surviving,MIKE DVORKIN,26/03/2013 00:00,8b3f51e6f32437c4c999a93992378ae4ba9d33e2,2
+fatfreecrm/fat_free_crm,Non-surviving,BEN TILLMAN,06/03/2015 00:00,bcdd1aab6850b35f7536a0bdbfdac35bbdf9f67c,2
+fetlife/rollout,Surviving,JAMES GOLICK,24/07/2013 00:00,7a15a1c4784639de391df4ca3d8b68e9375f308c,1
+fex-team/fis,Non-surviving,TIANLILI,16/12/2014 00:00,fb6e3f66eb4430aed92b25f6bf702077cdc61b85,1
+filp/whoops,Surviving,FILP,22/11/2015 00:00,d892dc5147e6beebf76e56232a0c9a6e5a9dc33c,1
+flot/flot,Non-surviving,OLAU@IOLA.DK,17/03/2011 00:00,284dfa13e448b824348507dd44763c3e04b8fc78,1
+flyerhzm/bullet,Surviving,SVEN RIEDEL,26/06/2010 00:00,5e45dc6572286f3538a5bd3858f1a1af892fd716,1
+formers/former,Non-surviving,MAXIME FABRE,03/09/2015 00:00,ef2d6224eb5daff81b111af977b6b0ef9e2c7ea5,1
+freedomofpress/securedrop,Surviving,AARON SWARTZ,03/07/2012 00:00,b32e1a5f22ff0a999aa9a69b5ea0c1d8872b336a,1
+FrozenNode/Laravel-Administrator,Non-surviving,GREGORY CLAEYSSENS,01/03/2014 00:00,25b401bc91daa8b210770f9e35e03a42c8821735,1
+fruux/Baikal,Non-surviving,JEROME SCHNEIDER,18/02/2014 00:00,9d1d7adba68a1bb10ad1eef2c251f81de644e128,1
+fuel/fuel,Non-surviving,DAN HORRIGAN,13/12/2011 00:00,695d89326debdf398ca5294798b041d77f6a84c0,1
+gaearon/react-hot-loader,Non-surviving,DAN ABRAMOV,04/05/2016 00:00,62881d97ca74907bc6de86399eb6b022c7bbc591,1
+geokit/geokit,Surviving,JAMES COX,07/08/2012 00:00,e712f0a7b21aaf7f974a4cf401288299c24a2a83,2
+geokit/geokit,Surviving,ANDRE LEWIS,27/05/2011 00:00,a4e0c3d2781c479d2882ebbb50973e86c2316ea7,2
+geokit/geokit-rails,Surviving,JEREMY LECOUR,31/01/2012 00:00,d8348d2da0e9b612757e1a1c58f76fada8609e9e,2
+geokit/geokit-rails,Surviving,BRENNAN DUNN,29/09/2009 00:00,ec302aa7e8161f0d05d5ab2742a0d1f5ff312065,2
+getpelican/pelican,Surviving,BRUNO BINET,01/03/2013 00:00,03f87057c2110acf3d9f605aa68ddad42eb15ae2,2
+getpelican/pelican,Surviving,ALEXIS METAIREAU,07/11/2013 00:00,9fe3d3c937e0efebc52e017ec104799028b27dff,2
+gevent/gevent,Non-surviving,DENIS BILENKO,08/02/2016 00:00,0fcb1ea5edbf786060ac4a5d03fca01e04efe01e,1
+giakki/uncss,Non-surviving,GIACOMO MARTINO,14/02/2016 00:00,43e0cc6ccc45afa0cff4e2020604b7a1127d29c2,2
+giakki/uncss,Non-surviving,BEN BRIGGS,25/01/2015 00:00,ee4bfbc7b96da77877b08d0d517bb80e1753164a,2
+github/github-services,Non-surviving,RICK,03/11/2014 00:00,a49f31f6c59cc76fbe717adbeb38fc07a29e1369,2
+github/github-services,Non-surviving,COREY DONOHOE,26/11/2014 00:00,2d38d6bba02efe05017ea6ed90b20540dbf48e4e,2
+github/markup,Surviving,CHRIS WANSTRATH,07/07/2010 00:00,43afedb678f525d2980f9591a399a16eaa8435fe,1
+globalize/globalize,Surviving,SVEN FUCHS,11/01/2011 00:00,64e792a2bb7715aa9adcd9efa007ea99aa6dd6b7,1
+gollum/gollum,Non-surviving,SIMONZACK,28/01/2015 00:00,3be2e76ec0f55346f19ef3f94daf80e780471e72,2
+gollum/gollum,Non-surviving,BOOTSTRAPONLINE,05/04/2014 00:00,ff82ddea9740b1ca7206c17af4f55a6250ba3cfd,2
+google/iosched,Surviving,BRUNO OLIVEIRA,12/08/2014 00:00,4ad38db3d90fcc7d20784af1f9dee3c508fabfd4,1
+googlevr/gvr-android-sdk,Surviving,TREVOR JOHNS,25/06/2014 00:00,c216370c70d34c8235cf9dab883f9c23cd456fa1,2
+googlevr/gvr-android-sdk,Surviving,SAM STERN,10/12/2014 00:00,0d961c7b802ce47336187cfc6010ad880c44eb55,2
+grbl/grbl,Surviving,SIMEN SVALE SKOGSRUD,02/08/2011 00:00,517a0f659a06182c89cafe27ee371edccad777a4,1
+Grive/grive,Surviving,MATCHMAN GREEN,20/06/2012 00:00,f4b3e488ee72ec381c5b30f807ec6a75f915aa97,1
+gruntjs/grunt,Non-surviving,BEN ALMAN,05/05/2015 00:00,0a968d0becd81e78851da108b0961cc42a4744c5,1
+HabitRPG/habitica,Surviving,TYLER RENELLE,08/05/2015 00:00,382add82c3aa8da1027db553b72a9d04df03bfe9,1
+haml/haml,Surviving,NATHAN WEIZENBAUM,16/12/2011 00:00,630b8fe2033e698768a67a923960a14e1d02100f,1
+handsontable/handsontable,Surviving,MARCIN WARPECHOWSKI,09/01/2015 00:00,b653a7d85b0ae70516d3da5d5e72729d80407338,2
+handsontable/handsontable,Surviving,PAWEŁ SMOLENSKI,10/06/2014 00:00,51790591bf94eac06a73cfeed0d8352b87163fab,2
+hashrocket/decent_exposure,Non-surviving,JOSHUA DAVEY,06/01/2015 00:00,08837d32ef73b40cf1a10846a134523460238dc8,2
+hashrocket/decent_exposure,Non-surviving,STEPHEN CAUDILL,19/12/2013 00:00,a7044ff350b7dbc120014fecf017edb4cfe0acba,2
+hexchat/hexchat,Non-surviving,BERKE VIKTOR,04/02/2015 00:00,a216ed1df9394325bc573cd3f1693eb467a89938,1
+htacg/tidy-html5,Surviving,MICHAEL[TM] SMITH,21/08/2012 00:00,0cf6d998431a61f1bd630e7883d4d43df4ad8ccc,1
+HubSpot/tether,Non-surviving,NICHOLAS HWANG,21/02/2016 00:00,ee050011a045169957739f1e85298828d94b56dc,2
+HubSpot/tether,Non-surviving,ADAM SCHWARTZ,29/07/2015 00:00,a6537e48c807cd4abdf239fc8edcd0adb71a024f,2
+hybridauth/hybridauth,Non-surviving,HYBRIDAUTH,03/10/2014 00:00,5b27ea2a91da4fe153bd2474af0ab8133684434a,2
+hybridauth/hybridauth,Non-surviving,TEREHRU,31/10/2015 00:00,ad4a20a90016d5586e5adc13f458dea89f6578df,2
+igrigorik/em-websocket,Non-surviving,MARTYN LOUGHRAN,24/01/2015 00:00,b8142915b09d84e79b06548a1468e42bf64439b3,1
+insoshi/insoshi,Non-surviving,BLAZAR,20/07/2008 00:00,16c0cfe59e7bb047d534a0bf1479dc27c44e51e3,1
+Intervention/image,Surviving,ERIC JONES,24/09/2013 00:00,d4ff0e8ca10429ffbf14bf76b3747e6adf890a4b,1
+j4mie/idiorm,Surviving,JAMIE MATTHEWS,30/01/2011 00:00,c956f1c8250cfb07c29f5b14a43e2ca30747e2d6,1
+j4mie/paris,Surviving,JAMIE MATTHEWS,30/01/2011 00:00,d8f5967b42cfe0540867e9a3a2e2d8bcbbc9b156,1
+JacksonTian/fks,Non-surviving,HAOJU ZHENG,03/03/2015 00:00,6f269d1d5fdc9cf641fea366691446848fe287de,1
+jacomyal/sigma.js,Non-surviving,ALEXIS JACOMY,10/12/2014 00:00,8f730ae33fc9a2c68c443eae831feb6ee3898e91,2
+jacomyal/sigma.js,Non-surviving,SEBASTIEN HEYMANN,01/03/2015 00:00,700e22189a31e482abd7a4b4e49e06d1a596a59f,2
+janl/mustache.js,Non-surviving,MICHAEL JACKSON,16/10/2015 00:00,81cec3f5bf5f41a7e605ff2b50f2be119dfc1983,2
+janl/mustache.js,Non-surviving,JAN LEHNARDT,21/09/2015 00:00,42d0ebd850f2474492b59af4366e3d1594967c83,2
+jashkenas/ruby-processing,Surviving,JEREMY ASHKENAS,28/12/2012 00:00,7ce50a65355bfc2f22413ad4ccf2771111d06c43,1
+jerryscript-project/jerryscript,Surviving,E.GAVRIN,11/12/2015 00:00,2c3c952fc9dc9eb2e4e70284a6b3fc7546ef2548,1
+joemccann/dillinger,Non-surviving,MARTIN BRODER,31/03/2015 00:00,c8a7cc456e36ebd6e21161a9affeaa5ef3476586,1
+joestump/python-oauth2,Non-surviving,JOE STUMP,29/07/2015 00:00,b909b4808de79dacd6472c6bbb9d3fc02931e128,3
+joestump/python-oauth2,Non-surviving,ZOOKO OFSIMPLEGEO,15/02/2011 00:00,81326a07d1936838d844690b468660452aafdea9,3
+joestump/python-oauth2,Non-surviving,TRES SEAVER,05/06/2013 00:00,0406587033cf35bd7e59b41ea98eaa4e79fd6239,3
+josevalim/rails-footnotes,Surviving,JOSE VALIM,22/12/2009 00:00,a934566c83159102c1b086aae4c39784409fea83,2
+josevalim/rails-footnotes,Surviving,ROMAN V. BABENKO,13/05/2014 00:00,961015b3a73c2a0fc6b9501fc001e6eb082b7025,2
+jquery-validation/jquery-validation,Non-surviving,JORN ZAEFFERER,03/09/2015 00:00,6129ab613ea828a65b05dcdfd7d2e74fa7265e02,2
+jquery-validation/jquery-validation,Non-surviving,NICK SCHONNING,17/06/2014 00:00,764a72a1d1c2a72c72dd4127c6aeb8feb5ce3aa9,2
+jquery/sizzle,Surviving,JOHN RESIG,10/05/2011 00:00,3ba396e439a07c2a2facafbe07cdaa1b80a24c00,1
+junit-team/junit4,Non-surviving,DAVID SAFF,10/08/2015 00:00,3e43555e1f4df95b0a239f453af6d3226a8fef6e,2
+junit-team/junit4,Non-surviving,KBECK,28/01/2009 00:00,d9c81356e3a2fbb165c71b32d63d0cc39a1bd861,2
+justinwalsh/daux.io,Surviving,GAUTHAM WARRIER,20/11/2014 00:00,c34ff07ed03670b6fc1e16c2d3acdf7a49ed8a12,2
+justinwalsh/daux.io,Surviving,LEOCOLOMB,17/02/2014 00:00,30e0d27509cb4e14fcff5de5100520328dd37d13,2
+jwt/ruby-jwt,Surviving,JEFF LINDSAY,24/11/2014 00:00,d46fa821fa5509dacdfdc433d457b21b2268a22f,3
+jwt/ruby-jwt,Surviving,BOB AMAN,01/05/2014 00:00,a96742d9d0fd652b08023b2f0fd9e2b8607c234e,3
+jwt/ruby-jwt,Surviving,PETER M. GOLDSTEIN,30/01/2014 00:00,2cb604a0f0b2b3df306b3d36e0f4ca7c0679dab5,3
+kangax/fabric.js,Non-surviving,JURIY ZAYTSEV,01/03/2016 00:00,1324c73c2ec11c5533d2e1966cd45fe551cc21a1,1
+kneath/kss,Non-surviving,KYLE NEATH,20/07/2014 00:00,93c7985bfe72a4955cfdede4da618a40d61b9012,1
+KnpLabs/Gaufrette,Non-surviving,LESZEK PRABUCKI,04/06/2014 00:00,d985d7c2d528b9943122252fcc916178d1eaa4fb,2
+KnpLabs/Gaufrette,Non-surviving,ANTOINE HERAULT,31/07/2012 00:00,e2382038d69dca517a3b8976a2de855da956ce12,2
+KnpLabs/php-github-api,Surviving,JOSEPH BIELAWSKI,01/04/2013 00:00,8eafe2ec512a0cbcdf5accc85f6a8cf01df787a2,2
+KnpLabs/php-github-api,Surviving,L3L0,21/07/2012 00:00,8ef3980867624d9fcc6e702d375eb158227d66c9,2
+KnpLabs/snappy,Non-surviving,ANTOINE HERAULT,06/08/2011 00:00,d01e07a081ad94b4e1cdb980dc1415750145e64c,3
+KnpLabs/snappy,Non-surviving,MATTHIEU BONTEMPS,11/03/2015 00:00,eda1b39cb06b3f9ac7b4423df4c115feccea1194,3
+KnpLabs/snappy,Non-surviving,SHANE O'GRADY,17/05/2012 00:00,fa5cd10b90d098b9ce83140e8171c1f8ebac851b,3
+kohana/kohana,Non-surviving,WOODY GILK,24/04/2014 00:00,6161b7b8fc0c9197a25225d5fba51857b5f71bea,1
+leafo/scssphp,Surviving,LEAF CORCORAN,07/10/2013 00:00,bc9d6341855877b57741ebdfce7fa5a19ac593f5,1
+less/less.js,Non-surviving,LUKE PAGE,17/02/2016 00:00,0b27e6063196312344d039abb14338820ee7347d,2
+less/less.js,Non-surviving,ALEXIS SELLIER,30/04/2012 00:00,a2df119732b2b05c7cdfd228a245c4a17e15fcbc,2
+lisa-lab/pylearn2,Non-surviving,IAN GOODFELLOW,05/08/2015 00:00,d2c2a5754649e154d3a9fd72290c8fc51269d501,4
+lisa-lab/pylearn2,Non-surviving,DAVID WARDE-FARLEY,15/06/2015 00:00,40333b971bea1866a7cd83e0eb0f6eb6494d5adf,4
+lisa-lab/pylearn2,Non-surviving,BART VAN MERRIENBOER,24/03/2015 00:00,0e2a12971dd3ed8b95b37dca24ea87e24232851a,4
+lisa-lab/pylearn2,Non-surviving,JAE-MYOUNG YU,21/12/2014 00:00,89d49f9a76b3af070b840bb6bb5d6973c0a2b5e9,4
+MacRuby/MacRuby,Non-surviving,ELOY DURAN,20/08/2011 00:00,6af3b3f7e283b1bcd4698db79000c547725362f7,2
+MacRuby/MacRuby,Non-surviving,WATSON,05/07/2013 00:00,d1e47668d4345c78871f49b06849f3c7e4355943,2
+mailboxer/mailboxer,Non-surviving,EDUARDO CASANOVA,02/08/2013 00:00,9dd5335ec574f18b5738725df576f3b2eff0784d,1
+Marak/faker.js,Surviving,BRYAN DONOVAN,08/01/2013 00:00,19d0e99ebec18bab6047bf944c07fc472fd9773a,1
+MarlinFirmware/Marlin,Surviving,DIRK EICHEL,30/03/2013 00:00,443aaa30bf5f66a91344331f3dee64cd44464a19,2
+MarlinFirmware/Marlin,Surviving,MAIKSTOHN,15/07/2013 00:00,9da94c247afc8805e4edd467937fb894436f3172,2
+maroslaw/rainyday.js,Non-surviving,MAROSLAW,28/10/2014 00:00,bcd1b37ad5cd9594a2bca6e37773d31ae2c22739,1
+maximebf/php-debugbar,Non-surviving,MAXIMEBF,16/09/2014 00:00,0e8dd3e6fd42577b27e2aedb293022fdaab05539,1
+mbebenita/Broadway,Non-surviving,MICHAEL BEBENITA,18/12/2014 00:00,22583c5eba2856f8c3612ebe76cd1c9f8d5cafd4,1
+mbleigh/acts-as-taggable-on,Surviving,TOM-ERIC,01/06/2010 00:00,3cf609de1276a270b34e238d0699042921bb43e7,3
+mbleigh/acts-as-taggable-on,Surviving,MICHAEL,31/03/2008 00:00,b150544799dd812a8ce2f961f4707047a1d78a5c,3
+mbleigh/acts-as-taggable-on,Surviving,ARTEMK,05/04/2013 00:00,7ca87d1967929d91990e70edecf929ce304a7de7,3
+mikel/mail,Non-surviving,MIKEL LINDSAAR,03/11/2014 00:00,ee79240a8ef6086107fbd731bc89847e4cd86a29,1
+mileszs/wicked_pdf,Surviving,VASILIEV NIKITA,10/04/2013 00:00,16febd178f73ce0815f3f655b26c9f48ad606ae9,1
+minimagick/minimagick,Surviving,HAMPTON CATLIN,04/07/2012 00:00,b10c8288a7175488765c40fd1ea7afc7b14adaf3,3
+minimagick/minimagick,Surviving,LUCAS HILLS,20/12/2011 00:00,76320a7593ab3abb14846b10de10792288224d3b,3
+minimagick/minimagick,Surviving,COREY JOHNSON,16/10/2012 00:00,9d9b3d4cc5ea32909b0fffd6d71f8c62ed20c4fe,3
+mishoo/UglifyJS,Surviving,EMIL HESSLOW,04/02/2011 00:00,02d7a2f34781e959cb089fcfec4bf35ff1d12ad8,1
+mochajs/mocha,Surviving,TJ HOLOWAYCHUK,16/05/2014 00:00,d8c4e472f0db2980a1316097919103e6155697ae,1
+mofarrell/p2pvc,Non-surviving,MOFARRELL,11/02/2015 00:00,16086cf6837d882bd07de2fc0464d008e99e1e37,1
+mojombo/god,Non-surviving,TOM WERNER,17/09/2012 00:00,8733f75a9d4e737e7286dd617f4a67272cb483d8,1
+mongodb/mongo-python-driver,Surviving,MIKE DIROLF,29/09/2010 00:00,4087168bcb8af5bbc70bdc7efca3d223c6f29e31,1
+mongodb/mongoid,Non-surviving,DURRAN JORDAN,22/02/2016 00:00,014fb3c54df2840d09f0d727ad6d24e1cbcf5241,1
+mongomapper/mongomapper,Non-surviving,CHRIS HEALD,01/06/2015 00:00,2820274872ff710e1fba111d74694954be167a1f,2
+mongomapper/mongomapper,Non-surviving,JOHN NUNEMAKER,18/06/2013 00:00,2cce2391283850a96ee06e9b82ee2c4dc020d340,2
+MovingBlocks/Terasology,Surviving,IMMORTIUS,27/09/2015 00:00,90283c37346787518d787df0825d28a8ff326aed,1
+mozilla/rr,Surviving,ANOLL,18/04/2012 00:00,e657eb2ab40e81c97f58bacd6b032cacc9f7e774,1
+mozilla/togetherjs,Non-surviving,AARON DRUCK,06/12/2013 00:00,5d756a2d56ffef36b9f4fd9bd01db1d70c3e6228,1
+MrRio/jsPDF,Surviving,DANIEL DOTSENKO,01/11/2012 00:00,c3974c93ded32cad93c226b8036a922b80b81f8b,1
+mumble-voip/mumble,Surviving,THORVALD NATVIG,28/10/2012 00:00,f4da6252e6cc29bcb37a1e72126522b34a473933,1
+mustache/mustache,Surviving,CHRIS WANSTRATH,11/11/2013 00:00,3fb5c6844fae84eb88ba2650eea9eee5ce58449d,1
+NanoHttpd/nanohttpd,Surviving,PAUL HAWKE,12/05/2014 00:00,ab6feae737b3038532d057e87fd83c58bad3b3cc,1
+nanomsg/nanomsg,Non-surviving,MARTIN SUSTRIK,27/11/2014 00:00,817333d63838e902c9edcd441e733a34cc781725,1
+NaturalNode/natural,Non-surviving,CHRIS UMBEL,12/03/2016 00:00,f2601c3343a3a65875b66d0901243b49e77e22d5,4
+NaturalNode/natural,Non-surviving,GUILLAUME MARTY,11/02/2014 00:00,157c704c800bf405a1f95c1527da084ae42d87c6,4
+NaturalNode/natural,Non-surviving,VINCENT,11/05/2014 00:00,f794dd1dbeed7f8edee7be528503b00057c5293f,4
+NaturalNode/natural,Non-surviving,KRISTOFFER BRABRAND,23/05/2014 00:00,d47cc23b2e5068b00801a78e1d4cd0856a5ef9fa,4
+NetEase/pomelo,Non-surviving,CHARLIE CRANE,06/11/2014 00:00,00217d3cda9c893921519a63f00eb7a5d58c7c38,3
+NetEase/pomelo,Non-surviving,PY,14/01/2016 00:00,e80be042d03e3f95e4938277effb6d0df53de5d1,3
+NetEase/pomelo,Non-surviving,CHANGCHANG,20/06/2013 00:00,331a2c2d9424767c02ac873be2584f842bde4809,3
+Netflix/eureka,Surviving,KARTHIK RANGANATHAN,19/11/2013 00:00,37d2a3d03cd19a8886c089f8a6b719bf226d34c3,2
+Netflix/eureka,Surviving,BENJAMIN POLLACK,29/04/2014 00:00,8d49020b9b99b271e1c814f5d6aa4d9f8aba9690,2
+Netflix/SimianArmy,Non-surviving,MICHAELF,19/07/2013 00:00,c7b1dcdf0709da5eee70ac5bb8dc1bd350a12c6f,2
+Netflix/SimianArmy,Non-surviving,CORY BENNETT,30/10/2014 00:00,f7b8d89df12c26ffeb9d0e000f2a2cfc998210e7,2
+newsapps/beeswithmachineguns,Surviving,CHRISTOPHER GROSKOPF,24/08/2012 00:00,a74f6ca2691bba51cd6984f6e8027587d9605c11,4
+newsapps/beeswithmachineguns,Surviving,DEAN MALMGREN,27/04/2013 00:00,5ea3c4de5e8710cd47ff54e7ae095f9858aaf77e,4
+newsapps/beeswithmachineguns,Surviving,CGROSKOPF,29/10/2010 00:00,46f60b10b973f1035982f3476df01cc307e2c21e,4
+newsapps/beeswithmachineguns,Surviving,JEFF LARSON,27/10/2010 00:00,94f439c9b6812325357a4c5dc8ea6966c95abb03,4
+NoamB/sorcery,Non-surviving,NOAM BEN ARI,25/08/2013 00:00,3a8a2ec16fbb8f103f44b69bb2ad38f4d2d147dd,1
+node-inspector/node-inspector,Non-surviving,YURY PUZYNYA,08/04/2016 00:00,0faa1356d66fe25027ff12a9e5c7da0fd8ed9276,1
+node-nock/nock,Non-surviving,PEDRO TEIXEIRA,13/04/2016 00:00,563fff1e507815a710adcdc292f5ecf1ea29f30d,1
+nodejitsu/node-http-proxy,Non-surviving,YAWNT,28/01/2014 00:00,b60673522b2d9a1042ef44d7df686750e4e6879d,2
+nodejitsu/node-http-proxy,Non-surviving,CRONOPIO,12/09/2014 00:00,554f59c5182d58b359df0159a29ff5ea35dd3830,2
+nodejs/http-parser,Surviving,RYAN DAHL,13/12/2011 00:00,3cf68f9a7065325bfbc69917a16245579940c226,1
+nodejs/node-gyp,Non-surviving,NATHAN RAJLICH,06/11/2015 00:00,8ef90348d176e7b46e83f6922b1f7458582ef5ee,1
+norman/friendly_id,Non-surviving,NORMAN CLARKE,22/09/2015 00:00,8069fc9959215e5f4872927928b3b7a95e9beacd,1
+novus/nvd3,Surviving,BOB MONTEVERDE,06/06/2013 00:00,065c8eb84d750c933d8fa884c78f9bd04bd36e3a,1
+numba/numba,Surviving,MARK FLORISSON,02/12/2013 00:00,24271c3230808be36f6ebdb7a42ccf2f95dcab29,1
+oclint/oclint,Non-surviving,LONGYI QI,11/07/2015 00:00,603daa8d239374908d217151be97e4e1793b20ab,1
+oneclick/rubyinstaller,Non-surviving,LUIS LAVENA,31/12/2014 00:00,99ac277cff4f677c23c3671ecb720f42535e5b11,2
+oneclick/rubyinstaller,Non-surviving,JON,31/05/2014 00:00,23a226f04aa4da149b1afda15c3d96eddc2920f3,2
+opauth/opauth,Non-surviving,U-ZYN CHUA,16/11/2013 00:00,5baf6626d6a58cfa23183cba72a66fb75f19357a,1
+OpenKinect/libfreenect,Surviving,ADITYA GADDAM,24/10/2011 00:00,87f61ea99db94c6976791bd695bc94d1e514f30f,4
+OpenKinect/libfreenect,Surviving,JUAN CARLOS DEL VALLE,18/07/2011 00:00,a879f2112a85737099d2428aa0771bde472d1a3b,4
+OpenKinect/libfreenect,Surviving,DREW FISHER,29/03/2012 00:00,16afaf845eabb75c9dd4c0d77ed3330f85027af6,4
+OpenKinect/libfreenect,Surviving,BRANDYN A. WHITE,14/04/2011 00:00,c7d32d8e836c00d92e3777c251d0da0c586b6402,4
+OpenRefine/OpenRefine,Non-surviving,DAVID HUYNH,14/03/2013 00:00,8fb450769b9d80b757c1c69cdd03f4e9a2b74ef5,1
+pallets/click,Non-surviving,ARMIN RONACHER,25/03/2016 00:00,fa2d870bac0c481714222b7204564c5150e302f5,1
+paramiko/paramiko,Non-surviving,ROBEY POINTER,23/05/2011 00:00,7bcbc2419812f87cf06391da61684df205f131d3,1
+paypal/PayPal-PHP-SDK,Surviving,AYDIV,04/11/2013 00:00,caa71466fed0aa31172ef5fc8c4f0a7971c025bd,2
+paypal/PayPal-PHP-SDK,Surviving,GANESH HEGDE,26/08/2013 00:00,1fb03acd27f25bf40a610759c322b8cf428cef79,2
+pdfkit/pdfkit,Surviving,JARED PACE,16/03/2012 00:00,831ecc049b4a67afbe7c3938d44daefc9a7d0cbb,1
+petergoldstein/dalli,Non-surviving,MIKE PERHAM,03/11/2014 00:00,c84a7cd8f878e42a8de648384b31a5dacfb4938f,1
+php-amqplib/php-amqplib,Non-surviving,ALVARO VIDELA,02/02/2016 00:00,be12b402da68ddd5f405cb4aa36631b53e28e3e6,2
+php-amqplib/php-amqplib,Non-surviving,KERNEL_X86,19/11/2014 00:00,1c4ae1c45d68be66e9e664d67d0cd72e91496f56,2
+PHPOffice/PHPWord,Surviving,IVAN LANIN,30/06/2014 00:00,d8aef5c502e9ec980f93b1647489c30bf4fe73a6,1
+phpredis/phpredis,Surviving,NICOLAS FAVRE-FELIX,14/12/2013 00:00,a77439a7cfcc9279747ea0167efe2bbf38428de1,1
+pixie-lang/pixie,Non-surviving,TIMOTHY BALDRIDGE,07/10/2015 00:00,37fe04629f43d303d0fc4c3fa3cfd82a0ce17073,1
+plataformatec/has_scope,Non-surviving,JOSE VALIM,21/07/2015 00:00,d16e855c5b732c9853f4760ebe8bed3c0969273e,1
+plataformatec/responders,Non-surviving,JOSE VALIM,17/07/2015 00:00,f0e093d01e799d8b67952c013daf8808e9ea02db,1
+pockethub/PocketHub,Non-surviving,KEVIN SAWICKI,09/04/2015 00:00,94f4fce286dde4678434993de73044a5faeaeb57,1
+PointCloudLibrary/pcl,Non-surviving,RADU B. RUSU,22/03/2014 00:00,2b10c1d5725d25adbc75a3f1fe054bf2bce92d9d,6
+PointCloudLibrary/pcl,Non-surviving,KOEN BUYS,18/03/2013 00:00,17099edb8735ec1ea7f6b57a4a2db259c1e0d338,6
+PointCloudLibrary/pcl,Non-surviving,GEOFFREY BIGGS,18/05/2012 00:00,19de838d7fa714e159b3d086376098b51444c739,6
+PointCloudLibrary/pcl,Non-surviving,ALEXANDRU EUGEN ICHIM,24/06/2015 00:00,e5a7e46e2eea43c06471855e90cddf6036979ad0,6
+PointCloudLibrary/pcl,Non-surviving,NIZAR SALLEM,23/05/2014 00:00,df56b844f0fdb0cd7815889c27df16d4484c0ba6,6
+PointCloudLibrary/pcl,Non-surviving,AITOR ALDOMA,13/11/2013 00:00,c199c37caaab8aee62bd371e777ff4e9afe356e0,6
+postrank-labs/goliath,Non-surviving,DAN SINCLAIR,25/06/2015 00:00,6c41d0a4986e70a8a53b54d3cde713938eec82eb,2
+postrank-labs/goliath,Non-surviving,PHILIP (FLIP) KROMER,09/08/2011 00:00,a91b4f7bc00f295cb54f42ee23d912df220d0906,2
+prawnpdf/prawn,Non-surviving,FELIPE DORIA,15/08/2012 00:00,7cc912cd50efe35413eb9319b93956aa733628a1,2
+prawnpdf/prawn,Non-surviving,GREGORY BROWN,02/09/2015 00:00,2f894ade8e6a97453a6a77fdf5c7400ca4dd7428,2
+prolificinteractive/material-calendarview,Non-surviving,ADAM KOSKI,30/10/2015 00:00,f6e49ba2afe706d45e9336c6cbbcb41bd0456048,1
+propelorm/Propel2,Non-surviving,FRANCOIS ZANINOTTO,30/07/2012 00:00,7649ef7ab64754f8a28bbe6d1fdff2c1761cf396,3
+propelorm/Propel2,Non-surviving,WILLIAM DURAND,01/01/2015 00:00,a8f72b2094bc8359fe9d178f875531312200a9a4,3
+propelorm/Propel2,Non-surviving,HUGO HAMON,10/09/2013 00:00,8e3b94cab196271f14616db89dbdd09c7a1edc15,3
+PyCQA/pycodestyle,Non-surviving,FLORENT XICLUNA,18/12/2014 00:00,497f1db5d142ddb891504d2513d52c5f195c05ac,1
+PyMySQL/PyMySQL,Surviving,PETE HUNT,25/07/2013 00:00,917365596b486e5b2e992b7080e4a75efe7273d8,2
+PyMySQL/PyMySQL,Surviving,DAVID STORY,16/06/2009 00:00,07ae36e644cdca99eb5c2bbc5fbbf562512325a6,2
+pypa/virtualenv,Non-surviving,IAN BICKING,04/05/2012 00:00,8dddd6845cfa9664e5ea4bf57ed9503f38a17fb9,1
+python-visualization/folium,Surviving,ROB STORY,30/11/2014 00:00,eaaf17e35c9d365a5e557dc5b371ac355f87d7c4,1
+qbittorrent/qBittorrent,Surviving,CHRISTOPHE DUMEZ,06/07/2013 00:00,7f7802680b4b9083368f7e9af3b2247d90b2011b,1
+qiao/PathFinding.js,Non-surviving,XUEQIAO XU,11/08/2015 00:00,b9b86b574afeedcc48902c4747187d44c2edd456,1
+react-bootstrap/react-bootstrap,Surviving,STEPHEN J. COLLINGS,19/11/2014 00:00,19e48257b2dc6c77cb73bed16a9ee15fead3577b,2
+react-bootstrap/react-bootstrap,Surviving,PIETER VANDERWERFF,14/10/2014 00:00,5c72ab09dbad845f0b24d4e9441e2c053ba83671,2
+react-dnd/react-dnd,Non-surviving,DAN ABRAMOV,08/04/2016 00:00,aff817fe69406d75c54b347b5209b99f0cf8764f,1
+reactphp/react,Non-surviving,IGOR WIEDLER,10/12/2014 00:00,d1171fb5d7e1955950e2083376afd750d6bbe148,2
+reactphp/react,Non-surviving,CHRIS BODEN,19/03/2015 00:00,fdcc9808ef9fafa8a61c119ba81d1630f3ee947a,2
+redis-store/redis-store,Non-surviving,LUCA GUIDI,05/11/2013 00:00,f3c16080416a93df36eaa63a6a703409c968d250,1
+redis/hiredis,Non-surviving,PIETER NOORDHUIS,29/05/2014 00:00,2602e1b6bc19dc191df0c50cd6502578fe492710,2
+redis/hiredis,Non-surviving,ANTIREZ,28/04/2015 00:00,2fc39eb4c35ad6c66a1b832a81d1519dcf5fe856,2
+redis/redis-rb,Non-surviving,PIETER NOORDHUIS,01/05/2014 00:00,813a4244c3ad5e90a05def03560f9f0445bfb89e,2
+redis/redis-rb,Non-surviving,CYRIL DAVID,12/03/2012 00:00,619fe28104ebb08f88802bae4e9b99769c93f722,2
+reflux/refluxjs,Non-surviving,MIKAEL BRASSMAN,17/11/2015 00:00,a3562e12ad5081f0a01d2fdaa7972131675a8d36,2
+reflux/refluxjs,Non-surviving,KUNGD,26/11/2014 00:00,272d543e6503cc514875e612fec313b0dfdde3d5,2
+remiprev/her,Non-surviving,REMI PREVOST,14/07/2015 00:00,1dc69ea9e9351cfc5ae1dd02dcf48abb5b81f006,1
+resque/resque,Non-surviving,CHRIS WANSTRATH,08/11/2011 00:00,af5a9a8e501c3732100b4ec768f7b2a4ec2aec2e,2
+resque/resque,Non-surviving,TONY ARCIERI,21/03/2013 00:00,58c0c6d460f9572126948a0d7405064129b22404,2
+rest-client/rest-client,Surviving,JULIEN KIRCH,19/11/2011 00:00,2a32c7b3db297132afc03794dbdafe1fccaf1bd4,2
+rest-client/rest-client,Surviving,ADAM WIGGINS,29/07/2009 00:00,c637668f2dbc23466df04c7dbeabf4ce40e4f7bf,2
+restify/node-restify,Surviving,MARK CAVAGE,21/01/2015 00:00,b24d88b6bfbf2eeb2265a9d2f09149e1ca21af15,1
+ricardochimal/taps,Non-surviving,"RICARDO CHIMAL, JR",14/02/2011 00:00,a465a75f0a05dafdd910f3f0809a1e3a19fb61c6,1
+roidrage/lograge,Non-surviving,MATHIAS MEYER,20/08/2014 00:00,3c413d3bc613177143405d6e2e8ef9a8ced97875,3
+roidrage/lograge,Non-surviving,MAXIMILIAN SCHULZ,06/08/2013 00:00,52f84d9007c85b8d86e5a0944556b2e6828513a3,3
+roidrage/lograge,Non-surviving,ANDREAS TIEFENTHALER,15/11/2015 00:00,966e0d7a7c4a1a835496dc6f2ad48d1b975438e3,3
+RolifyCommunity/rolify,Non-surviving,FLORENT MONBILLARD,03/07/2014 00:00,f2ad6cb43ee0656246d7012706dc64950dcec221,1
+rspec/rspec-rails,Non-surviving,DAVID CHELIMSKY,22/05/2013 00:00,1362cad2c8ee7e38c8e1a1998ce9a1552db07020,2
+rspec/rspec-rails,Non-surviving,AARON KROMER,03/08/2015 00:00,cb2dda87a1022e43166606e9334de05b816fe226,2
+RubaXa/Sortable,Surviving,DAN DASCALESCU,27/09/2015 00:00,0ead812eec14f8a081758e028bc3c2f580bb3938,1
+rubber/rubber,Non-surviving,MATT CONWAY,10/01/2014 00:00,c7e5cc419bf33fb5a4c9159a860f0118006e5171,1
+ruby-prof/ruby-prof,Surviving,CHARLIE SAVAGE,15/08/2013 00:00,e1d1ba17e13f8ef5e24097034095ecc182d785e0,1
+RubyMoney/money,Non-surviving,SHANE EMMONS,17/02/2016 00:00,eb968bebd67fba76e336221d2d8da30699e02129,3
+RubyMoney/money,Non-surviving,SIMONE CARLETTI,28/06/2012 00:00,3e7261b257358e4f25daae22374f232ddc87a683,3
+RubyMoney/money,Non-surviving,JELL,27/04/2011 00:00,2fc7b153eb43073680d77e9f98730d7a0a4d19f5,3
+s3tools/s3cmd,Non-surviving,MICHAL LUDVIG,27/10/2014 00:00,39172600cf3440e3a68fac84c155e25596081ba3,1
+savonrb/savon,Non-surviving,RUBIII,11/09/2013 00:00,91ff564787a368687a040bf9bb052a55cd9c88ff,1
+schacon/ruby-git,Non-surviving,SCOTT CHACON,10/08/2009 00:00,053d49c8eb4e9cd5509b9d4fede8e2dd3adf9fa2,1
+scottjehl/picturefill,Non-surviving,AFARKAS,14/02/2016 00:00,e7c768409ca2e01168439b125dc2303e457edc16,1
+scribejava/scribejava,Surviving,PABLO FERNANDEZ,22/08/2015 00:00,0311a435fa492cbaa87f4e1c63395f33770d7d38,1
+seajs/seajs,Non-surviving,LIFESINGER,19/05/2014 00:00,d1bcbc1e3f318af7484cffbe8b040e70f1471a5b,1
+segmentio/metalsmith,Non-surviving,IAN STORM TAYLOR,24/09/2015 00:00,e1d6e93206e56a5a1394939da69d220db4c242bb,1
+senchalabs/connect,Surviving,TJ HOLOWAYCHUK,03/12/2013 00:00,88c3792d0dc20496edfccd9f1f3832ecb6074ada,1
+SFML/SFML,Non-surviving,LAURENTGOM,25/03/2015 00:00,3ca6e0f34698fdc5f1be73b3bbf3b3dbf7a4ea26,1
+SheetJS/js-xlsx,Surviving,JOSH PETERSEN,03/06/2015 00:00,a345c332ac179885be239b8d6e05475570353b9e,1
+shelljs/shelljs,Surviving,ARTUR ADIB,12/01/2016 00:00,ace162ae84f7dacb0b4ed912a5a303b48754c960,1
+Shopify/identity_cache,Surviving,JOHN DUFF,12/03/2013 00:00,d73d2ea032cdb3063e890217d5b24433abd5db38,2
+Shopify/identity_cache,Surviving,HARRY BRUNDAGE,13/12/2013 00:00,82ffb80cde3824817f5d43e9c887bd7ffe4f711a,2
+showdownjs/showdown,Surviving,TITUS,11/08/2012 00:00,90e51e95cc147bba9657e47a837b73ed7cfc8384,1
+Sigil-Ebook/Sigil,Surviving,JOHN SCHEMBER,14/06/2015 00:00,6677f9ff2f372a3df749dcbbb215638120d19983,3
+Sigil-Ebook/Sigil,Surviving,STRAHINJA MARKOVIC,22/04/2011 00:00,2ac4c6934814978e7893ea8aade7f02e5cedae2f,3
+Sigil-Ebook/Sigil,Surviving,DAVE HEILAND,03/06/2013 00:00,9aa7e284310b8590052237fd477503cc54eacda1,3
+silexphp/Pimple,Non-surviving,JULIEN PAULI,30/07/2015 00:00,b29807d250cd18bff4e9a3560d8652869f61f2ef,1
+silviomoreto/bootstrap-select,Surviving,T0XICCODE,24/02/2015 00:00,00d0203d4d0433bfa1862229a42527ccbe9c81f0,1
+simplepie/simplepie,Non-surviving,GEOFFREY SNEDDON,08/08/2010 00:00,798f4674468316b8cc70fe8de73034c072dbdc15,1
+sinatra/sinatra,Non-surviving,KONSTANTIN HAASE,13/04/2016 00:00,7a9ffccdafb71fef8d33c110d03ca0654dbb9316,1
+SirVer/ultisnips,Non-surviving,HOLGER RAPP,05/12/2015 00:00,1b481f312e6e0ade4c330e61a098d71294e8b43f,1
+soundcloud/lhm,Surviving,RANY KEDDO,17/02/2012 00:00,4dab545ea393c387e64328a3941e2f5232e0a944,1
+soveran/cuba,Non-surviving,CYRIL DAVID,28/11/2013 00:00,4a651f8390673aef51eb5db00c4ba812a84befa9,1
+sparklemotion/mechanize,Non-surviving,ERIC HODEL,14/01/2015 00:00,cd8c446106bc4d274dc743d937d5d66f12123ddc,2
+sparklemotion/mechanize,Non-surviving,AARONP,11/05/2008 00:00,a3a73d89a1a7c38e2fb5103a74e8916759c1cae2,2
+spinnaker/spinnaker,Surviving,DANIEL WOODS,27/01/2015 00:00,52259c872b323eecad6b758868f59cb93512f20b,1
+sripathikrishnan/redis-rdb-tools,Non-surviving,SRIPATHI KRISHNAN,17/10/2013 00:00,d39c8e5127daf3e109c0f0e101af8ed0e5400493,1
+stefankroes/ancestry,Non-surviving,STEFAN KROES,13/05/2015 00:00,2fa4381e0e21289d6800772d7f67d16efa65c4f8,1
+stephanenicolas/robospice,Non-surviving,STEPHANE NICOLAS,06/09/2014 00:00,5f6603028c8d0a079d9c688f634455fc3472fae5,1
+stevegraham/slanger,Non-surviving,STEVIE GRAHAM,13/09/2015 00:00,a7902fdedbc96484207efe208e2551f0775e002d,1
+stleary/JSON-java,Non-surviving,DOUGLAS CROCKFORD,06/02/2015 00:00,9b6872b6e52e28b1b99aa328c2109436de58622f,1
+streamio/streamio-ffmpeg,Non-surviving,DAVID BACKEUS,30/01/2014 00:00,1a7db769aa466bb2dbd9f7f9fe723301bfb6a590,1
+stripe/stripe-php,Non-surviving,BRIAN KRAUSZ,24/02/2016 00:00,d9e003017917c1feee383e965f7ed7bbcfcc06a2,3
+stripe/stripe-php,Non-surviving,CHAD GRAY,12/01/2015 00:00,e0f3dfc66a7ebc9db3aaa8c058a7db68f10f4901,3
+stripe/stripe-php,Non-surviving,GREG BROCKMAN,09/04/2012 00:00,929f9474ee8f7e97cb63f40b5d0e68e0f7dfb205,3
+Studio3T/robomongo,Surviving,TOPILSKI,15/11/2013 00:00,6c09bb657ff1250d9d5d9cea8210416bf244d1c1,1
+stylus/stylus,Surviving,TJ HOLOWAYCHUK,04/04/2013 00:00,f8f1f69fc50f6e8f378fb6c25360da044e60482f,1
+svenfuchs/rails-i18n,Non-surviving,NASH BRIDGES,19/02/2013 00:00,33ec8d215383a3ef2d2472a1c010da31a471b0bb,1
+swanandp/acts_as_list,Surviving,PETER SUSCHLIK,16/11/2011 00:00,03f844f319d284b8e2f9e479992d93f2a0de12da,4
+swanandp/acts_as_list,Surviving,QUINN@KUBUNTU-DESKTOP,30/05/2011 00:00,f7bdd42afde799762d2cad70b67683fee888007b,4
+swanandp/acts_as_list,Surviving,PHILIPP FRANKE,27/07/2013 00:00,bdb47cef42eb09dc2965607d1e3275a5dc55ec17,4
+swanandp/acts_as_list,Surviving,MICHAEL KOZIARSKI,09/10/2007 00:00,9baff190a52c05cc542bfcaa7f77a91ce669f2f8,4
+swiftmailer/swiftmailer,Surviving,D11WTQ,21/06/2012 00:00,d57ffdeed664d6061cef0047e1f5d3fc3ee3fb99,1
+symless/synergy,Non-surviving,NICK BOLTON,19/11/2015 00:00,85088baceba39dc7bd04bbee46e77d50e2eb49e8,3
+symless/synergy,Non-surviving,CRS,22/06/2007 00:00,d1e56572d2184de5e47526c8b1add8f883d3a482,3
+symless/synergy,Non-surviving,ADAM POTOLSKY,25/06/2015 00:00,9dc0a1d862c234303b6b385a77daf40017a155ed,3
+teampoltergeist/poltergeist,Non-surviving,JON LEIGHTON,25/07/2013 00:00,38daa9944b6f88f11f5de3fb2e1e5e2cfdee5864,1
+technicalpickles/homesick,Surviving,JOSHUA NICHOLS,09/01/2014 00:00,a657c5622e181471af5d9285b00c89a07ba57c1e,2
+technicalpickles/homesick,Surviving,MURATAYUSUKE,23/11/2013 00:00,04c4a4c059c44863ca36e4e0bf62f105c914161b,2
+technicalpickles/jeweler,Non-surviving,JOSH NICHOLS,18/03/2016 00:00,ac3d1f99cc28fba1588851ed1b2f613429a6eb09,1
+technoweenie/restful-authentication,Non-surviving,PHILIP (FLIP) KROMER,05/09/2008 00:00,5846e652407eb26f54f85062cd4fe5cda68daf61,2
+technoweenie/restful-authentication,Non-surviving,TECHNOWEENIE,01/01/2008 00:00,1a50c0479e77c202372b441b0f4935d35bbf1f2f,2
+tenex/rails-assets,Non-surviving,TYMON TOBOLSKI,20/01/2016 00:00,a296cdc49fb552214cd5049c723abd1bff02d34d,2
+tenex/rails-assets,Non-surviving,ADAM STANKIEWICZ,18/01/2016 00:00,ed597065fa0c0e175925bb0f5ee9075017918717,2
+test-kitchen/test-kitchen,Non-surviving,FLETCHER NICHOL,08/12/2015 00:00,0ba6f2116d8dd2b65396b4e352236106b922b918,1
+thephpleague/oauth2-client,Surviving,TOM ANDERSON,29/04/2014 00:00,4a138df1f1eebbc3994739eef247fc8103bc6282,4
+thephpleague/oauth2-client,Surviving,JILDERT MIEDEMA,03/12/2014 00:00,9d6aa586760dcc75d38577c663600c0177eb0615,4
+thephpleague/oauth2-client,Surviving,ALEX BILBIE,31/08/2014 00:00,47d94477cf2155bf8da03b63ff3c1b0276a6c736,4
+thephpleague/oauth2-client,Surviving,DANIEL HORRIGAN,29/01/2013 00:00,5636c66fc29f907a6c994c4aeea5adecbb4cefdb,4
+thoughtbot/high_voltage,Non-surviving,MATT JANKOWSKI,14/04/2015 00:00,a8798a66bdc9ce9ccee247a901432df85e4256a0,4
+thoughtbot/high_voltage,Non-surviving,HARLOW WARD,25/07/2014 00:00,218aae165acf03bc998034cdaa2cbffb6efb656b,4
+thoughtbot/high_voltage,Non-surviving,JEREMY SMITH,13/06/2015 00:00,f2819122a3d1c42bb05222cc8cececa70e407e18,4
+thoughtbot/high_voltage,Non-surviving,MIKE BURNS,26/09/2012 00:00,8494e51b59ea3b73405401a268ce206a440cfeeb,4
+thoughtbot/paperclip,Non-surviving,JON YUREK AND NATHAN WALLS,20/11/2015 00:00,2c6aa8ac4192e8480275df0413ef34038d383fc1,1
+thoughtbot/shoulda,Non-surviving,JOE FERRIS,17/07/2012 00:00,10edfe8b279dac761bc606b8be5a117b8fbdc20b,2
+thoughtbot/shoulda,Non-surviving,TSALEH,01/05/2008 00:00,7b7c11859bb146517d5e638f01da02423900fd0d,2
+thoughtbot/shoulda-matchers,Surviving,JOE FERRIS,14/09/2012 00:00,fde078da0274f69e6deb8f4cfebe6af54d6906d2,2
+thoughtbot/shoulda-matchers,Surviving,GABE BERKE-WILLIAMS,28/02/2013 00:00,9d86a462718de24ed0577d4b35f314c475d73dec,2
+tj/commander.js,Surviving,TJ HOLOWAYCHUK,07/05/2014 00:00,93e9dc6e55e5a5aff6097187e0449c9d1e108240,1
+tj/luna,Non-surviving,TJ HOLOWAYCHUK,05/02/2014 00:00,56d2bb2eaa43472a3d777727d1d671fc0e075c40,1
+tmuxinator/tmuxinator,Non-surviving,CHRISTOPHER CHOW,10/11/2015 00:00,f938953d0e9bdcbcc041c288d1b29d01767317ff,1
+toland/qlmarkdown,Surviving,JONATHAN MITCHELL,26/01/2012 00:00,974eef15eda3deaa44d0db514a8ddaac8a3e8603,1
+troessner/reek,Surviving,KEVIN RUTHERFORD,17/10/2011 00:00,462e2bc0d4645222370b1aa8eeda4c484ad187e3,1
+trulia/hologram,Non-surviving,GEOFF PLEISS,16/01/2015 00:00,6a71a81a0d31a14e96024cdc5c750e7ac6b17ca0,2
+trulia/hologram,Non-surviving,JOHNY,24/04/2014 00:00,5635ed36d184a261363707e8345b06be889a937d,2
+twilio/twilio-php,Surviving,NEUMAN,11/08/2011 00:00,3c95aec2801cc32b696dfb7adae4a6f0f9570bdb,1
+typekit/webfontloader,Surviving,RYAN CARVER,05/01/2011 00:00,2e160183022132f4bc6fec6cb2507e5b70fea1bc,1
+typhoeus/typhoeus,Surviving,PAUL DIX,03/05/2010 00:00,7440e709e87a0b0fd38ed2d24b14c0c1f128697d,2
+typhoeus/typhoeus,Surviving,DAVID BALATERO,17/11/2011 00:00,1c1d46067481c7466e8721f7777fdd5db6089e82,2
+unbit/uwsgi,Surviving,ROBERTO@SIRIUS,01/10/2012 00:00,248741a81f1e995d18ff81554848f39b56357881,3
+unbit/uwsgi,Surviving,ROBERTO@DEBIAN32,04/05/2012 00:00,08c6258459d39ac4cd21277b4f39c64a8b41904d,3
+unbit/uwsgi,Surviving,ROBERTO@PRECISE64,30/05/2012 00:00,9f0228601820c9a820eda43cc13c098e2b9eab08,3
+ushahidi/Ushahidi_Web,Non-surviving,DAVID KOBIA,28/11/2012 00:00,d3a9c628638069c02a733074c1a6bb7159edf913,2
+ushahidi/Ushahidi_Web,Non-surviving,ROBBIE MACKAY,07/04/2014 00:00,c05509aad4261598c5a38d861d37371442a01f24,2
+ValveSoftware/source-sdk-2013,Non-surviving,JOE LUDWIG,12/06/2014 00:00,56accfdb9c4abd32ae1dc26b2e4cc87898cf4dc1,2
+ValveSoftware/source-sdk-2013,Non-surviving,JØRGEN P. TJERNØ,10/12/2013 00:00,9c37fcc3a8769d2d9d483cea774ddd6a3896ff22,2
+vcr/vcr,Non-surviving,MYRON MARSTON,22/12/2014 00:00,b12cc072dbe93125714ff205247e9bfebf65eb4a,1
+VerbalExpressions/JSVerbalExpressions,Surviving,OLEG SELETSKY,27/12/2013 00:00,41872519435a741355e4d83722eb5b2d1c098c51,1
+VerbalExpressions/PHPVerbalExpressions,Non-surviving,SIGNPOSTMARV,15/01/2016 00:00,09c58bb741b955a3ad3c11eb44d16fcf1311c183,3
+VerbalExpressions/PHPVerbalExpressions,Non-surviving,FRANK STELZER,16/08/2013 00:00,58110de881016a6b4c48ceb261c47b837bc94f4c,3
+VerbalExpressions/PHPVerbalExpressions,Non-surviving,DAVID GREMINGER,13/08/2013 00:00,8746a62f78a8bd33d206d0020ffa2418acac562a,3
+videojs/video.js,Surviving,STEVE HEFFERNAN,09/10/2015 00:00,e58c2266de3325c30412c2dcd1ce8096d980b63e,2
+videojs/video.js,Surviving,MATTHEW MCCLURE,10/12/2015 00:00,4cb14eb420270db1b136e3c85726b2a3376d64ee,2
+visionmedia/superagent,Surviving,TJ HOLOWAYCHUK,06/03/2014 00:00,0cbb118415f9cd26090ac5626652b89ab6d66fbd,1
+vitalets/x-editable,Non-surviving,VITALETS,12/03/2015 00:00,8a6ad079bbbfb51683e75094c2aca8f2aafd2e02,1
+VitaliyRodnenko/geeknote,Non-surviving,STEPLER,17/07/2012 00:00,854e15392d35fec46567e5c52cca019c5f04e105,2
+VitaliyRodnenko/geeknote,Non-surviving,D1FFUZ0R,11/08/2012 00:00,1469e31e531e4262de123def40f81aeecf60be0d,2
+websockets/ws,Non-surviving,EINAROS,16/07/2013 00:00,1969850f8a446ed4e97e31fdc30d8ad7ebf00943,1
+welaika/wordless,Non-surviving,STEFANO VERNA,12/06/2013 00:00,60b0b991811303abe8b1baf99af011d29cee1d00,1
+welaika/wordmove,Non-surviving,FABRIZIO MONTI,08/04/2016 00:00,05d196275de2ecb2d229c3ae26365c91e9af00ae,2
+welaika/wordmove,Non-surviving,STEFANO VERNA,23/06/2013 00:00,af365fa4e31a245e55c8b93b7ae66610ecbfb65a,2
+wkhtmltopdf/wkhtmltopdf,Non-surviving,JAKOB TRUELSEN,20/02/2014 00:00,51036e686401251dbf550b3f884fb2f02d84c8d1,1
+WordPress-Coding-Standards/WordPress-Coding-Standards,Surviving,AKEDA BAGUS,28/03/2013 00:00,336d1eb4583ab51c470f13d270cd231ea09a8914,1
+WordPress/WordPress,Surviving,RYAN,09/08/2012 00:00,d28687551563453b06b4042c4bcc9b7ecffd37c4,3
+WordPress/WordPress,Surviving,NACIN,08/08/2012 00:00,f02bacd9f1646fe27c44f0623bfa5b80a396a849,3
+WordPress/WordPress,Surviving,AZAOZZ,08/08/2012 00:00,cbc9aabfa4f8b71022987872c32f774d566f53fe,3
+wp-cli/wp-cli,Surviving,SCRIBU,17/08/2015 00:00,2c894e975ae55f6d2d815f2d57ae6cab78962ffc,1
+yeoman/generator-angular,Non-surviving,BRIAN FORD,13/08/2013 00:00,fef13c59ee505d469164e1f8a8a19ad5c68b5e5e,3
+yeoman/generator-angular,Non-surviving,MICKAEL DANIEL,26/01/2013 00:00,4eea5db516a3933c3995f0cb0ecdca48911666e0,3
+yeoman/generator-angular,Non-surviving,ANDREW KIMPTON,24/07/2015 00:00,e579df9d5d2133300f9fe0c3686bc9efbbb5260e,3
+yiisoft/yii,Non-surviving,QIANG XUE,14/02/2015 00:00,ee39b8511c6c821f2e8863655d92151cc4931448,1
+yui/yuicompressor,Non-surviving,STOYAN STEFANOV,03/11/2010 00:00,d36d4470ff786aadc2e70a36e689882d0bce4cc0,3
+yui/yuicompressor,Non-surviving,JULIEN LECOMTE,07/12/2009 00:00,9251317a100d4b169726bd88aa48719d1f379c42,3
+yui/yuicompressor,Non-surviving,SATYEN DESAI,28/09/2011 00:00,6e2bc23f1056ea07fc78846b6938b7ce85abb276,3
+yusuke/twitter4j,Surviving,YUSUKE,27/02/2010 00:00,3a99d268d67d75987db23d608cc7e9bd74a904f7,1
+z3t0/Arduino-IRremote,Non-surviving,BLUECHIP,01/07/2015 00:00,ec5e1bd5f97bbf691c3dd7de33a73da4ea03e7f5,1
+zendframework/ZendSkeletonApplication,Surviving,EVAN COURY,02/04/2013 00:00,41b86489ddd5f93babfea1ee2b6d413ebdb9dd73,1
+zeromq/libzmq,Surviving,MARTIN SUSTRIK,19/12/2011 00:00,6f32361fea61619fec94348de693a9e3ff8981e0,1
+ZipArchive/ZipArchive,Surviving,DOUGLAS BUMBY,12/07/2015 00:00,90efaf41c74326f79553bb8d00040c3d41157168,1
+zurb/foundation-sites,Non-surviving,GEOFF KIMBALL,31/03/2016 00:00,6b2666da2e96f99aec191490e36152a66b88f35b,1
+zxing/zxing,Non-surviving,SROWEN,14/01/2014 00:00,800fee3472706b90abd93744d14b357c9055817a,1

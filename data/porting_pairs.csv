@@ -1,0 +1,12 @@
+repo_name,user,project,language
+Azure/azure-sdk-for-java,Azure,azure-sdk-for-java,Java
+Azure/azure-sdk-for-python,Azure,azure-sdk-for-python,Python
+GoogleCloudPlatform/python-docs-samples,GoogleCloudPlatform,python-docs-samples,Python
+GoogleCloudPlatform/java-docs-samples,GoogleCloudPlatform,java-docs-samples,Java
+GoogleCloudPlatform/php-docs-samples,GoogleCloudPlatform,php-docs-samples,PHP
+aws/aws-sdk-java-v2,aws,aws-sdk-java-v2,Java
+aws/aws-sdk-php,aws,aws-sdk-php,PHP
+datastax/python-driver,datastax,python-driver,Python
+datastax/java-driver,datastax,java-driver,Java
+googleapis/google-cloud-php,googleapis,google-cloud-php,PHP
+googleapis/google-cloud-python,googleapis,google-cloud-python,Python
