@@ -10,8 +10,12 @@ Please cite as
     eprint={2007.10912},
     archivePrefix={arXiv},
     primaryClass={cs.SE}
-}```
+}
+```
 
 See here the [linguistic commit classification](https://github.com/evidencebp/commit-classification)
+Research used the model of commit 650f91f
+Repository will keep advancing.
 
-See here the [analysis utilities](https://github.com/evidencebp/analysis_utils)
+See here the [analysis utilities](https://github.com/evidencebp/analysis_utils) 
+
