@@ -1,58 +1,56 @@
 
+drop table if exists general.non_fork_commits_tmp;
 
-drop table if exists ccp.non_fork_commits_tmp;
-
-# Legacy, large results
-# Into ccp.non_fork_commits_tmp
-SELECT
-r.repo_name as repo_name
-, commit
-FROM
-(select r.repo_name, commit
+create table
+general.non_fork_commits_tmp
+as
+select
+commit_repo_name
+, c.*
 from
-flatten([bigquery-public-data:github_repos.commits],  repo_name) as t
+`bigquery-public-data.github_repos.commits` as c
+cross join  UNNEST(repo_name) as commit_repo_name
 Join
-[ccp.active_2019_atleast_200_gitprop] as r
-On t.repo_name = r.Repo_name
-  where
- year(USEC_TO_TIMESTAMP(committer.date.seconds*1000000))  = 2019
- )
+general.2020_above_50_10_jan as r
+On commit_repo_name = r.Repo_name
+;
 
-drop table if exists ccp.non_fork_commits;
+
+drop table if exists general.non_fork_commits;
 
 # Standard
 create table
-ccp.non_fork_commits
+general.non_fork_commits
 partition by
 fake_date
 cluster by
-repo_name, commit
+commit_repo_name, commit
 as
 Select
 *
 , DATE('1980-01-01') as  fake_date
 from
-ccp.non_fork_commits_tmp
+general.non_fork_commits_tmp
 ;
 
-drop table if exists ccp.joint_commits;
+drop table if exists general.joint_commits;
 
 create table
-ccp.joint_commits
+general.joint_commits
 as
 Select
-f.repo_name as first_repo_name
-, s.repo_name as second_repo_name
+f.commit_repo_name as first_repo_name
+, s.commit_repo_name as second_repo_name
 , count(distinct f.commit) as joint_commits
 from
-ccp.non_fork_commits as f
+general.non_fork_commits as f
 join
-ccp.non_fork_commits as s
+general.non_fork_commits as s
 on
 f.commit = s.commit
-# not breaking simmetry with first_repo_name > second_repo_name and doubling the storage to ease work later
+# not breaking symmetry with first_repo_name > second_repo_name and doubling the storage to ease work later
 where
-f.repo_name != s.repo_name
+f.commit_repo_name != s.commit_repo_name
 group by
 first_repo_name
 , second_repo_name
@@ -60,43 +58,75 @@ having
 count(distinct f.commit) > 50
 ;
 
+drop table if exists general.repo_commits;
 
-drop table if exists ccp.dominated_repos;
-# Standard sql
 create table
-ccp.dominated_repos
+general.repo_commits
+as
+Select
+f.commit_repo_name as repo_name
+, count(distinct f.commit) as commits
+from
+general.non_fork_commits as f
+group by
+f.commit_repo_name
+;
+
+drop table if exists general.dominated_repos;
+
+create table
+general.dominated_repos
 as
 Select
 dominated.repo_name as repo_name
 from
-ccp.joint_commits as j
+general.joint_commits as j
 join
-ccp.active_repos2019_atleast_100 as dominating
+general.repo_commits as dominating
 on
 j.first_repo_name = dominating.repo_name
 join
-ccp.active_repos2019_atleast_100 as dominated
+general.repo_commits as dominated
 on
 j.second_repo_name = dominated.repo_name
 where
-(
+
 (dominating.repo_name != dominated.repo_name)
 and
 (
 (dominating.commits > dominated.commits)
-or
-(dominating.commits = dominated.commits and dominating.repo_name > dominated.repo_name)
+and
+(dominated.commits = j.joint_commits)
+#or
+#(dominating.commits = dominated.commits and dominating.repo_name > dominated.repo_name)
 
-)
 )
 group by
 dominated.repo_name
 ;
 
-# Clean up
-drop table if exists ccp.non_fork_commits_tmp;
 
-drop table if exists ccp.non_fork_commits;
-drop table if exists ccp.joint_commits;
-drop table if exists ccp.dominated_repos;
+drop table if exists general.2020_above_50_10_jan_no_dominated;
+
+create table
+general.2020_above_50_10_jan_no_dominated
+as
+select
+r.*
+from
+general.2020_above_50_10_jan as r
+left join
+general.dominated_repos as d
+on
+r.repo_name = d.repo_name
+where
+d.repo_name is null
+;
+
+# Clean up
+drop table if exists general.non_fork_commits_tmp;
+
+drop table if exists general.non_fork_commits;
+drop table if exists general.joint_commits;
+drop table if exists general.dominated_repos;
 
