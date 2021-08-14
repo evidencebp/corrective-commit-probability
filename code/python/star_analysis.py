@@ -4,6 +4,7 @@ from datetime import datetime
 from feature_pair_analysis import pretty_print, pair_analysis_with_controls
 from repo_utils import get_valid_repos
 from remove_redundant_repositories import check_name_redundency
+from df_to_latex_table import df_to_latex_table
 
 def do_stars_analysis(trep):
 
@@ -128,6 +129,41 @@ def Linus_rule():
           , "lift"
           , g[g.selected_users_project][i].iloc[0]/g[~g.selected_users_project][i].iloc[0] -1)
 
+
+def linus_median():
+    df = get_valid_repos()
+    df['user'] = df.repo_name.map(lambda x: x.split('/')[0])
+
+
+    selected_users = ['google', 'facebook', 'apache', 'angular', 'kubernetes', 'tensorflow']
+    many_stars_threshhold = df.stargazers_count.quantile(0.95)
+    print("many_stars_threshold 95%", many_stars_threshhold)
+    df['many_stars'] = df.stargazers_count.map(lambda x: x > many_stars_threshhold)
+
+    rows = []
+
+
+    for i in selected_users:
+        print(i)
+        g = df[df.user == i].groupby(['many_stars'], as_index=False).agg(
+            {'y2019_ccp': 'mean', 'repo_name': 'count'})
+        print(g)
+        print("Many stars lift"
+              , round(g[g.many_stars].iloc[0].y2019_ccp/ g[~g.many_stars].iloc[0].y2019_ccp -1.0, 2))
+        pop_ccp_median = df[(df.user == i) & (df.many_stars)].y2019_ccp.quantile(0.5)
+        print(pop_ccp_median)
+        unpop_ccp_median = df[(df.user == i) & (~df.many_stars)].y2019_ccp.quantile(0.5)
+        print(unpop_ccp_median)
+
+        rows.append((i, pop_ccp_median, unpop_ccp_median, pop_ccp_median/unpop_ccp_median - 1))
+
+    ccp_df = pd.DataFrame(rows
+                                , columns=['Source', 'Popular CCP Median', 'Rest CCP median', 'Lift']).sort_values('Source')
+
+    df_to_latex_table(ccp_df
+        , caption = '\label{tab:CCP-linus-med} Linus by CCP Median')
+
+
 def run_star_analysis():
     trep = get_valid_repos()
     do_stars_analysis(trep)
@@ -135,4 +171,5 @@ def run_star_analysis():
 
 if __name__ == '__main__':
     #run_star_analysis()
-    Linus_rule()
+    #Linus_rule()
+    linus_median()
