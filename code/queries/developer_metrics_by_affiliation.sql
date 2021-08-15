@@ -7,13 +7,17 @@ author_email_domain
 , avg(files_owned_ccp ) as ccp
 , avg(avg_coupling_code_size_cut ) as avg_coupling_code_size_cut
 , avg(tests_presence ) as tests_presence
-, avg(single_line_message_ratio ) as single_line_message_ratio
+, avg(multiline_message_ratio ) as multiline_message_ratio
+, avg(message_length_avg ) as message_length_avg_ratio
 , avg(same_date_duration_avg ) as same_date_duration_avg
-
-
+, avg(files_edited ) as files_edited
+, avg(refactor_mle ) as refactor_mle
+, avg(commit_days ) as commit_days
+, avg(one_file_fix_rate ) as one_file_fix_rate
+, avg(one_file_refactor_rate ) as one_file_refactor_rate
 from
 general.developer_profile as d
-where commits >= 50
+where commits >= 200
 group by
 author_email_domain
 order by
@@ -35,11 +39,17 @@ end as prestigious
 , avg(files_owned_ccp ) as ccp
 , avg(avg_coupling_code_size_cut ) as avg_coupling_code_size_cut
 , avg(tests_presence ) as tests_presence
-, avg(single_line_message_ratio ) as single_line_message_ratio
+, avg(multiline_message_ratio ) as multiline_message_ratio
+, avg(message_length_avg ) as message_length_avg_ratio
 , avg(same_date_duration_avg ) as same_date_duration_avg
+, avg(files_edited ) as files_edited
+, avg(refactor_mle ) as refactor_mle
+, avg(commit_days ) as commit_days
+, avg(one_file_fix_rate ) as one_file_fix_rate
+, avg(one_file_refactor_rate ) as one_file_refactor_rate
 from
 general.developer_profile as d
-where commits >= 50
+where commits >= 200
 group by
 prestigious
 order by
@@ -62,13 +72,19 @@ end as prestigious
 , avg(files_owned_ccp ) as ccp
 , avg(avg_coupling_code_size_cut ) as avg_coupling_code_size_cut
 , avg(tests_presence ) as tests_presence
-, avg(single_line_message_ratio ) as single_line_message_ratio
+, avg(multiline_message_ratio ) as multiline_message_ratio
+, avg(message_length_avg ) as message_length_avg_ratio
 , avg(same_date_duration_avg ) as same_date_duration_avg
+, avg(files_edited ) as files_edited
+, avg(refactor_mle ) as refactor_mle
+, avg(commit_days ) as commit_days
+, avg(one_file_fix_rate ) as one_file_fix_rate
+, avg(one_file_refactor_rate ) as one_file_refactor_rate
 
 
 from
 general.developer_profile as d
-where commits >= 50
+where commits >= 200
 and
 tests_presence < 0.01
 group by
