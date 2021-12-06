@@ -13,6 +13,8 @@ def topics_st_to_set(json_str):
     json_str = json_str.replace("'", '"')
     json_str = json_str.replace(HOLDER, '"')
     json_str = json_str.replace("None", '""')
+    json_str = json_str.replace("False", '"False"')
+    json_str = json_str.replace("True", '"True"')
     return json.loads(json_str)
 
 
