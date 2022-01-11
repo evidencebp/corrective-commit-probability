@@ -1,4 +1,15 @@
 
+drop view if exists general.repos_to_reduce;
+
+create view
+general.repos_to_reduce
+as
+select
+*
+from
+general.2021_above_50_struct_11_jan_2022
+;
+
 drop table if exists general.non_fork_commits_tmp;
 
 create table
@@ -11,7 +22,7 @@ from
 `bigquery-public-data.github_repos.commits` as c
 cross join  UNNEST(repo_name) as commit_repo_name
 Join
-general.2020_above_50_10_jan as r
+general.repos_to_reduce as r
 On commit_repo_name = r.Repo_name
 ;
 
@@ -106,15 +117,15 @@ dominated.repo_name
 ;
 
 
-drop table if exists general.2020_above_50_10_jan_no_dominated;
+drop table if exists general.repos_to_reduce_no_dominated;
 
 create table
-general.2020_above_50_10_jan_no_dominated
+general.repos_to_reduce_no_dominated
 as
 select
 r.*
 from
-general.2020_above_50_10_jan as r
+general.repos_to_reduce as r
 left join
 general.dominated_repos as d
 on
@@ -129,4 +140,5 @@ drop table if exists general.non_fork_commits_tmp;
 drop table if exists general.non_fork_commits;
 drop table if exists general.joint_commits;
 drop table if exists general.dominated_repos;
+drop view if exists general.repos_to_reduce;
 
