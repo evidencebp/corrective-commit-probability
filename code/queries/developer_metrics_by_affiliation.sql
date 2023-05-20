@@ -131,3 +131,40 @@ prestigious
 order by
 count(distinct d.author_email) desc
 ;
+
+# Performance by affiliation
+
+select
+case
+when author_email_domain in
+('google.com', 'googlemail.com') then 'Google'
+
+when author_email_domain in
+( 'redhat.com', 'microsoft.com', 'apache.org', 'intel.com',  'fb.com', 'us.ibm.com', 'apple.com'
+, 'amazon.com', 'mit.edu', 'stanford.edu', 'umich.edu', 'inria.fr', 'gatech.edu', 'cornell.edu') then author_email_domain
+else 'other'
+end as affiliation
+, count(*) as cases
+, count(distinct d.author_email) as developers
+, avg(files_owned_ccp ) as ccp
+, avg(avg_coupling_code_size_cut ) as avg_coupling_code_size_cut
+, avg(tests_presence ) as tests_presence
+, avg(multiline_message_ratio ) as multiline_message_ratio
+, avg(message_length_avg ) as message_length_avg_ratio
+, avg(same_date_duration_avg ) as same_date_duration_avg
+, avg(files_edited ) as files_edited
+, avg(refactor_mle ) as refactor_mle
+, avg(commit_days ) as commit_days
+, avg(one_file_fix_rate ) as one_file_fix_rate
+, avg(one_file_refactor_rate ) as one_file_refactor_rate
+from
+general.developer_profile as d
+where commits >= 200
+group by
+affiliation
+having
+count(*) >= 10
+order by
+count(distinct d.author_email) desc
+;
+
