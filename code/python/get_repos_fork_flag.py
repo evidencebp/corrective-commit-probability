@@ -15,15 +15,14 @@
 """
 
 from os.path import join
-import requests
 from github import Github
 import pandas as pd
 from time import sleep
 
-from analyze_topics import topics_st_to_set
 from cred import GITHUB_TOKEN
 from configuration import DATA_PATH
 from batch_process import BatchProcessor
+from analyze_topics import topics_st_to_set
 
 
 def get_repo_fork_flag(repo_name
@@ -58,7 +57,7 @@ def extract_repo_properties(repo
     - Qouta was used
     - A temporal error in the API
 
-    Due to the last two reseaon it is recommended to run the script more
+    Due to the last two reasons it is recommended to run the script more
     than once.
 
     :param repo:
@@ -131,29 +130,25 @@ def get_repositories():
     bp_fork.process()
 
     """
-    bp_properties = BatchProcessor(input_file=join(DATA_PATH
-                                        , '2020_above_50_without_fork_10_jan.csv')
-                        , output_file=join(DATA_PATH
-                                        , '2020_above_50_without_fork_10_jan_properties.csv')
+    bp_properties = BatchProcessor(input_file=
+                                'C:/src/pylint-intervention/interventions/candidates_detailed_stats_with_recent.csv'
+                        , output_file='C:/src/pylint-intervention/interventions/candidates_detailed_stats_prop.csv'
 
                         , prev_file=None
                         #, prev_file=join(DATA_PATH
                         #                , '2020_above_50_nofork_properties_v3.csv')
                         , fetch_function=extract_repo_properties_wrapper
                         , keys=['repo_name']
-                        , error_file=join(DATA_PATH
-                                        , 'active_repos_2020_dec_27_errors.csv')
+                        , error_file='c:/tmp/errors.csv'
                         , pause_function=pause_for_quota
                         )
     bp_properties.process()
 
 
 def structure_properties_file():
-    df = pd.read_csv(join(DATA_PATH
-                                        , '2020_above_50_without_fork_10_jan_properties.csv'))
+    df = pd.read_csv('C:/src/pylint-intervention/interventions/candidates_detailed_stats_prop.csv')
     structured_df = properties_etl(df)
-    structured_df.to_csv(join(DATA_PATH
-                                        , '2020_above_50_without_fork_10_jan_properties_structured.csv')
+    structured_df.to_csv('C:/src/pylint-intervention/interventions/candidates_detailed_stats_stars.csv'
                          , index=False)
 if __name__ == "__main__":
     #get_repositories()

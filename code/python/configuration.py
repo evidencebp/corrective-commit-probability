@@ -1,7 +1,7 @@
 
 import sys
 
-ANALYSIS_PATH = '/Users/idan/src/analysis_utils'
+ANALYSIS_PATH = 'c:/src/analysis_utils'
 sys.path.append(ANALYSIS_PATH)
 
 BASE_PATH = r'/Users/idan/src/in-work/ccp-journal/'
